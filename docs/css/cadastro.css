@@ -1,0 +1,54 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1.5em/1.38 'Trebuchet MS';
+  color: rgb(0, 0, 0);
+}
+
+.image {
+  display: block;
+  width: 228px;
+  height: auto;
+  margin: 17px auto 0;
+  overflow: hidden;
+}
+
+._button {
+  display: block;
+  width: 36.1111111111%;
+  height: 50px;
+  margin: 38px auto 0;
+  border-radius: 30px;
+  background-color: rgb(231, 207, 50);
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._input {
+  display: block;
+  width: 45%;
+  height: 32px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0 10px;
+  border: 1px solid rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  font-family: Verdana;
+  font-size: 0.542em;
+  color: rgb(0, 0, 0);
+}
+
+._input-1 {
+  margin-top: 146px;
+}
+
+._input-5 {
+  margin-top: 18px;
+}
+
+._input-2,
+._input-3,
+._input-4,
+._input-6 {
+  margin-top: 20px;
+}

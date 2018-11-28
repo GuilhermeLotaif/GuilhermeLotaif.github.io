@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 Verdana;
+  color: rgb(0, 0, 0);
+}
+
+.text {
+  margin-right: auto;
+  margin-left: auto;
+  border-style: solid;
+  color: rgb(0, 0, 0);
+}
+
+._button {
+  display: block;
+  float: left;
+  width: 11.1067708333%;
+  height: 40px;
+  border-radius: 3px;
+  background: url('../images/home-page.png') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-1 {
+  width: 60.8333333333%;
+  min-height: 50px;
+  margin-top: 40px;
+  border-width: 5px;
+  border-color: rgb(231, 207, 50);
+  border-radius: 10px;
+  font-size: 1.875em;
+  text-align: center;
+}
+
+.text-2 {
+  width: 78.06%;
+  min-height: 142px;
+  margin-top: 12px;
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  font-size: 1em;
+  text-indent: 0.5px;
+}

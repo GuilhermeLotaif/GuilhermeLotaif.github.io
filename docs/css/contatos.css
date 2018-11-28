@@ -1,0 +1,57 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1.875em/1.38 Verdana;
+  color: rgb(0, 0, 0);
+}
+
+.text {
+  float: left;
+  width: 49.7222222222%;
+  min-height: 50px;
+  margin: 43px 0 0 13.60243%;
+  border: 5px solid rgb(231, 207, 50);
+  border-radius: 10px;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._button {
+  display: block;
+  float: left;
+  border-radius: 3px;
+  font-size: 0.533em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._input {
+  display: block;
+  float: left;
+  clear: both;
+  width: 40%;
+  height: 33px;
+  margin: 6px 0 0 30%;
+  padding: 0 10px;
+  background-color: rgb(242, 242, 242);
+  font-size: 0.467em;
+  color: rgb(0, 0, 0);
+}
+
+._button-1 {
+  width: 11.1111111111%;
+  height: 40px;
+  margin-left: 0.2777777777%;
+  background: url('../images/home-page.png') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+}
+
+._button-2 {
+  clear: both;
+  width: 45.2777777777%;
+  height: 46px;
+  margin: 8px 0 0 27.36111%;
+  background-color: rgb(222, 222, 222);
+}

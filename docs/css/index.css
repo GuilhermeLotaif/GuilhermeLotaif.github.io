@@ -1,0 +1,66 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1.25em/1.38 'Trebuchet MS';
+  color: rgb(0, 0, 0);
+}
+
+.image {
+  display: block;
+  float: left;
+  width: 327px;
+  height: auto;
+  margin: 38px 0 0 4.64844%;
+  overflow: hidden;
+}
+
+.text {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 3;
+  width: 38.25%;
+  min-height: 37px;
+  margin: 94px 0 0 27.91667%;
+  font-family: Verdana;
+  font-size: 0.8em;
+  color: rgb(0, 0, 0);
+}
+
+._button {
+  display: block;
+  height: 83px;
+  border-radius: 30px;
+  background-color: rgb(231, 207, 50);
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._button:hover {
+  color: rgb(0, 0, 0);
+}
+
+._button-1 {
+  width: 56.9444444444%;
+  margin: 243px auto 0;
+}
+
+._button-2 {
+  position: absolute;
+  top: 439px;
+  left: 0;
+  right: 0;
+  z-index: 2;
+  width: 55.8333333333%;
+  margin: 0 auto;
+}
+
+._button-3 {
+  position: absolute;
+  top: 339px;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  width: 55.8333333333%;
+  margin: 0 auto;
+}

@@ -1,0 +1,112 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 'Trebuchet MS';
+  color: rgb(0, 0, 0);
+}
+
+.image {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 2;
+  width: 228px;
+  height: auto;
+  margin: 19px 0 0 7.66059%;
+  overflow: hidden;
+}
+
+.text {
+  float: left;
+  clear: both;
+  width: 100%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-2 p,
+.text-3 p,
+.text-5 p {
+  margin-bottom: 1em;
+}
+
+._button {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 0;
+  width: 11.1067708333%;
+  height: 40px;
+  margin: 8px 0 0 4.15365%;
+  border-radius: 3px;
+  background: url('../images/home-page.png') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  font-family: Verdana;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-1 {
+  min-height: 33px;
+  margin-top: 12px;
+  background-color: rgb(231, 207, 50);
+}
+
+.text-2 {
+  min-height: 36px;
+  border-bottom: 1px solid rgb(0, 0, 0);
+  border-radius: 1px;
+  background-color: rgba(151, 151, 151, 0.68);
+}
+
+.text-3 {
+  min-height: 36px;
+  border-bottom: 1px solid rgb(0, 0, 0);
+  background-color: rgba(151, 151, 151, 0.68);
+}
+
+.text-4 {
+  position: relative;
+  z-index: 3;
+  min-height: 33px;
+  margin-top: 80px;
+  background-color: rgb(231, 207, 50);
+}
+
+.text-5 {
+  position: relative;
+  z-index: 6;
+  min-height: 36px;
+  margin-top: -1px;
+  border-bottom: 1px solid rgb(0, 0, 0);
+  border-radius: 1px;
+  background-color: rgba(151, 151, 151, 0.68);
+}
+
+.text a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: 1.5em;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}

@@ -1,0 +1,68 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1.5em/1.38 Verdana;
+  color: rgb(0, 0, 0);
+}
+
+.text {
+  position: relative;
+  float: left;
+  z-index: 0;
+  width: 49.7222222222%;
+  min-height: 50px;
+  margin: 35px 0 0 13.75434%;
+  border: 5px solid rgb(231, 207, 50);
+  border-radius: 10px;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._button {
+  display: block;
+  float: left;
+  border-radius: 3px;
+  font-size: 0.667em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._input {
+  display: block;
+  width: 65.2777777777%;
+  height: 41px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0 10px;
+  border: 1px solid rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  font-size: 0.542em;
+  color: rgb(0, 0, 0);
+}
+
+._button-1 {
+  width: 11.1067708333%;
+  height: 40px;
+  margin-left: 0.27778%;
+  background: url('../images/home-page.png') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+}
+
+._button-2 {
+  clear: both;
+  width: 43.75%;
+  height: 33px;
+  margin: 15px 0 0 25.13889%;
+  background-color: rgb(222, 222, 222);
+}
+
+._input-1 {
+  margin-top: 129px;
+}
+
+._input-2,
+._input-3 {
+  margin-top: 15px;
+}

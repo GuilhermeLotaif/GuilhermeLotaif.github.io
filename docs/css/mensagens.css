@@ -1,0 +1,123 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1.875em/1.38 Verdana;
+  color: rgb(0, 0, 0);
+}
+
+.text {
+  color: rgb(0, 0, 0);
+}
+
+._button {
+  display: block;
+  float: left;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-1 {
+  width: 49.7222222222%;
+  min-height: 50px;
+  margin: 64px auto 0;
+  border: 5px solid rgb(231, 207, 50);
+  border-radius: 10px;
+  font-size: 1em;
+  text-align: center;
+}
+
+.text-2 {
+  float: left;
+  clear: both;
+  width: 3.4157986111%;
+  min-height: 34px;
+  margin-top: 30px;
+  font-family: Helvetica;
+  font-size: 0.533em;
+}
+
+._button-1 {
+  width: 11.1067708333%;
+  height: 40px;
+  border-radius: 3px;
+  background: url('../images/home-page.png') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  font-size: 0.533em;
+}
+
+._button-2 {
+  clear: both;
+  width: 49.4444444444%;
+  height: 68px;
+  margin: 121px 0 0 25.27778%;
+  border-radius: 30px;
+  background-color: rgb(231, 207, 50);
+  font-family: 'Trebuchet MS';
+  font-size: 0.8em;
+}
+
+._button-3 {
+  clear: both;
+  width: 49.4416551246%;
+  height: 68px;
+  margin: 30px 0 0 25.27344%;
+  border-radius: 30px;
+  background-color: rgb(231, 207, 50);
+  font-family: 'Trebuchet MS';
+  font-size: 0.8em;
+}
+
+.text a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: rgb(255, 255, 255);
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}

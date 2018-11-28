@@ -1,0 +1,57 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1.5em/1.38 'Trebuchet MS';
+  color: rgb(0, 0, 0);
+}
+
+._button {
+  display: block;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._input {
+  display: block;
+  float: left;
+  padding: 0 10px;
+  border: 1px solid rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  font-family: Verdana;
+  font-size: 0.542em;
+  color: rgb(0, 0, 0);
+}
+
+._button-1 {
+  float: left;
+  width: 11.1067708333%;
+  height: 40px;
+  border-radius: 3px;
+  background: url('../images/home-page.png') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  font-family: Verdana;
+  font-size: 0.667em;
+}
+
+._button-2 {
+  width: 27.7777777777%;
+  height: 51px;
+  margin: 465px auto 0;
+  border-radius: 30px;
+  background-color: rgb(231, 207, 50);
+  font-size: 1em;
+}
+
+._input-1 {
+  width: 31.1111111111%;
+  height: 40px;
+  margin-top: 105px;
+}
+
+._input-2 {
+  clear: both;
+  width: 75.8333333333%;
+  height: 196px;
+  margin: 25px 0 0 11.10243%;
+}
